@@ -1,0 +1,7 @@
+name: DistantScythes
+version: '${project.version}'
+main: net.unitedlands.DistantScythes
+api-version: '1.21'
+depend: [ItemsAdder]
+authors: [Litning11]
+description: A scythe tool
